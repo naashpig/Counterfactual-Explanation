@@ -12,7 +12,9 @@ python -m spacy download en
 ## Monte-Carlo Tree Search (MCTS)
 To run the data collection with MCTS for initial iteration, run this command with :
 
-`python run_planning.py --seed=$SEED --trial=0`
+```
+python run_planning.py --seed=$SEED --trial=0
+```
 (For each planning, use --seed option with different index)
 
 All experiments in the paper were conducted with Google Cloud Platform(GCP) and HTCondor to run in parallel. If you want to run the experiment in parallel, we reccomend to set up the HTCondor and environment on your GCP account.
@@ -20,7 +22,9 @@ All experiments in the paper were conducted with Google Cloud Platform(GCP) and 
 ## Merge planning trajectories and experience replays
 To merge the data for learning the Q-network and policy, run this command:
 
-`python merge_plans.py`
+```
+python merge_plans.py
+```
 ## Train the Q-network and policy
 To run the Q-network and policy with collected data, run this command:
 ```
@@ -30,7 +34,9 @@ To run the Q-network and policy with collected data, run this command:
 ## Monte-Carlo Planning with Language Action Value Estimates (MC-LAVE)
 To run the MC-LAVE planning with trained Q-network and policy, run this command with :
 
-`python run_planning.py --seed=$SEED --trial=1`
+```
+python run_planning.py --seed=$SEED --trial=1
+```
 (For each iteration, use --trial option with iteration number)
 
 ## Citation
