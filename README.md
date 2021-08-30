@@ -2,11 +2,7 @@
 This repository is the implementation of "Monte-Carlo Planning and Learning with Language Action Value Estimates"
 ## Requirements
 To install requirements:\
-'''
-conda env create -f environment.yml
-conda activate mc-lave-rl
-python -m spacy download en_core_web_lg
-python -m spacy download en
+'''conda env create -f environment.yml\conda activate mc-lave-rl\python -m spacy download en_core_web_lg\python -m spacy download en
 '''
 
 ## Monte-Carlo Tree Search (MCTS)
