@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7180fd76-f42f-4bd4-bd5e-07c53585edac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CFE/CFE_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/counterfactual_explanations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/data_interfaces/private_data_interface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/data_interfaces/public_data_interface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/diverse_counterfactuals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/explainer_interfaces/CFE_pytorch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/explainer_interfaces/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/explainer_interfaces/explainer_base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/explainer_interfaces/feasible_base_vae.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/explainer_interfaces/feasible_model_approx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/model_interfaces/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/model_interfaces/base_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/model_interfaces/keras_tensorflow_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/model_interfaces/pytorch_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/utils/helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/utils/sample_architecture/2114493.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/utils/sample_architecture/vae_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/utils/sample_trained_models/adult-margin-0.165-validity_reg-42.0-epoch-25-base-gen.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/utils/sample_trained_models/adult-margin-0.344-validity_reg-76.0-epoch-25-ae-gen.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/utils/sample_trained_models/adult.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/utils/sample_trained_models/adult.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CFE/utils/sample_trained_models/adult_2nodes.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CounterfactualExplanation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CounterfactualExplanation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/CFE/data_interfaces/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630306267005</updated>
-      <workItem from="1630306268191" duration="20731000" />
+      <workItem from="1630306268191" duration="20986000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1630306314748</created>
@@ -154,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630306314748</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit">
+      <created>1630404782520</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630404782520</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,17 +145,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="713" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.-857.1080.1880/-1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630404203732" />
-    <state x="577" y="87" key="CommitChangelistDialog2" timestamp="1630306314332">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1343" y="95" key="CommitChangelistDialog2" timestamp="1630404781987">
+      <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
+    <state x="-1343" y="95" key="CommitChangelistDialog2/1920.-857.1080.1880/-1920.8.1920.1040/0.0.1920.1040@-1920.8.1920.1040" timestamp="1630404781987" />
     <state x="577" y="87" key="CommitChangelistDialog2/1920.-857.1080.1880/-1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630306314332" />
     <state width="1273" height="466" key="DebuggerActiveHint" timestamp="1630375420076">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1273" height="466" key="DebuggerActiveHint/1920.-857.1080.1880/-1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630375420076" />
-    <state x="119" y="241" width="1720" height="773" key="DiffContextDialog" timestamp="1630310964187">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1801" y="249" width="1720" height="773" key="DiffContextDialog" timestamp="1630404804678">
+      <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
+    <state x="-1801" y="249" width="1720" height="773" key="DiffContextDialog/1920.-857.1080.1880/-1920.8.1920.1040/0.0.1920.1040@-1920.8.1920.1040" timestamp="1630404804678" />
     <state x="119" y="241" width="1720" height="773" key="DiffContextDialog/1920.-857.1080.1880/-1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630310964187" />
     <state width="1860" height="185" key="GridCell.Tab.0.bottom" timestamp="1630404445287">
       <screen x="0" y="0" width="1920" height="1040" />
