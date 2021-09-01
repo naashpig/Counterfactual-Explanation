@@ -4,7 +4,7 @@ from CFE.utils import helpers
 backend = 'PYT'
 dataset_name='adult_income'
 num_cfs=4
-PrototypeMode=True
+PrototypeMode=True # or False
 num_prototype_k=10
 test_sample = {'age':34,
                   'workclass':'Private',
