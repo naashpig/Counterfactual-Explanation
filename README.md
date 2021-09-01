@@ -30,7 +30,7 @@ We propose using class prototypes in the objective function to guide the perturb
 
 ```py
 PrototypeMode=True # or False
-num_prototype_k=10
+num_prototype_k=10 # the number of nearest samples to average
 ```
 
 ## Acknowledgement
