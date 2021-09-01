@@ -1,5 +1,7 @@
 # Counterfactual-Explanation
-This repository is the implementation of "Monte-Carlo Planning and Learning with Language Action Value Estimates"
+
+This repository is the implementation of ["Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations"](https://dl.acm.org/doi/pdf/10.1145/3351095.3372850)
+
 ## Requirements
 To install requirements:
 
