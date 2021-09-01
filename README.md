@@ -1,5 +1,5 @@
 # Introduction on counterfactual explanation via prototype learning
-This repository is the implementation of ["Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations"](https://dl.acm.org/doi/pdf/10.1145/3351095.3372850) and ["Interpretable Counterfactual Explanations Guided by Prototypes"](https://arxiv.org/pdf/1907.02584.pdf)
+This repository is the implementation of ["Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations"](https://dl.acm.org/doi/pdf/10.1145/3351095.3372850) and ["Interpretable Counterfactual Explanations Guided by Prototypes"](https://arxiv.org/pdf/1907.02584.pdf).
 ## Requirements
 To install requirements:
 
