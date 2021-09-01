@@ -14,7 +14,7 @@ To run the model and get the counterfacual instance for the input, run this comm
 python test.py
 ```
 ## Choosing the test sample
-It is possible to change the values of the test sample with any value you want
+It is possible to change the values of the test sample with any value we want.
 ```py
 test_sample = {'age':34,
                   'workclass':'Private',
@@ -26,7 +26,7 @@ test_sample = {'age':34,
                   'hours_per_week': 45}
 ```
 ## Prototype learning
-We propose using class prototypes in the objective function to guide the perturbations quickly towards an interpretable counterfactual. Similar with the [referred paper](https://arxiv.org/pdf/1907.02584.pdf), We select the target class prototype as the average over the K nearest train instances with the counterfactual class label not in the latent space. When we decide to use this learning method, it is necessary to choose K.
+We propose using class prototypes in the objective function to guide the perturbations quickly towards an interpretable counterfactual. Similar with the [referred paper](https://arxiv.org/pdf/1907.02584.pdf), We select the target class prototype as the average over the k nearest train instances with the counterfactual class label not in the latent space. When we decide to use this learning method, it is necessary to choose k.
 
 ```py
 PrototypeMode=True # or False
