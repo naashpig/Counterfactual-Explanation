@@ -1,0 +1,79 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 45eeaa9dd9790d39447ad8a32e9a880b0d780dde)
++++ .idea/workspace.xml	(date 1630307256010)
+@@ -1,7 +1,66 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="ChangeListManager">
++    <list default="true" id="7180fd76-f42f-4bd4-bd5e-07c53585edac" name="Default Changelist" comment="">
++      <change afterPath="$PROJECT_DIR$/main3.py" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Python Script" />
++      </list>
++    </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="JupyterTrust" id="00f92094-5eb9-4168-bba9-36f93e20ac96" />
++  <component name="ProjectId" id="1xR7u90wjUFTSEhPBdK6xbwyT0v" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
++  <component name="PropertiesComponent">
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
++    <property name="WebServerToolWindowFactoryState" value="false" />
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="7180fd76-f42f-4bd4-bd5e-07c53585edac" name="Default Changelist" comment="" />
++      <created>1630306267005</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1630306267005</updated>
++      <workItem from="1630306268191" duration="754000" />
++    </task>
++    <task id="LOCAL-00001" summary="Second commit">
++      <created>1630306314748</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1630306314748</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Second commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
++  </component>
++  <component name="WindowStateProjectService">
++    <state x="577" y="87" key="CommitChangelistDialog2" timestamp="1630306314332">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="577" y="87" key="CommitChangelistDialog2/1920.-857.1080.1880/-1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630306314332" />
++  </component>
+ </project>
+\ No newline at end of file
+diff --git main3.py main3.py
+new file mode 100644
